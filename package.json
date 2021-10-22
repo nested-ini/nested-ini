@@ -1,0 +1,27 @@
+{
+  "name": "superini",
+  "version": "0.0.1",
+  "description": "Superini parser",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superini/superini.git"
+  },
+  "keywords": [
+    "ini",
+    "configuration",
+    "format"
+  ],
+  "author": "Paul Klink",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superini/superini/issues"
+  },
+  "homepage": "https://github.com/superini/superini#readme"
+}
